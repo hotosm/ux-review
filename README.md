@@ -44,7 +44,7 @@ So where to start?
 - Do you have an OSM account? You should :)
 - Have you mapped? Probably should give that a go too :) 
 - do you have a GitHub account? You should >
-- Do you have HCD experience? If not start here >> ideo link 
+- Do you have HCD experience? If not start here >> [Video link](https://youtu.be/KkUor_NTuDA) 
 - the rest is up to you. 
 
 Feel free to ask any clarifying questions, but keep in mind that initiative is something with high value in remote work, so we're here to support your process
